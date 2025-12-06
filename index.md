@@ -15,7 +15,7 @@
 
 ### Client Information
 
-[Stewart](./client_info/stewartw.md)
+
  
   
 ### Sign-Up
